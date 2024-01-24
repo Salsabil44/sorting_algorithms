@@ -27,6 +27,7 @@ void swap_nodes(listint_t **h, listint_t **n1, listint_t *n2)
  * @list: A pointer to the head of a doubly-linked list of integers.
  *
  * Description: Prints the list after each swap.
+ *  Author: Sally
  */
 void insertion_sort_list(listint_t **list)
 {
@@ -46,7 +47,4 @@ void insertion_sort_list(listint_t **list)
 		}
 	}
 }
-/*
-   by
-  sally
-*/
+

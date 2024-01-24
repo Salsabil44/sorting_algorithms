@@ -20,6 +20,7 @@ void swap_ints(int *a, int *b)
  * @size: The size of the array.
  *
  * Description: Prints the array after each swap.
+ * Author: Sally
  */
 void bubble_sort(int *array, size_t size)
 {
@@ -44,7 +45,3 @@ void bubble_sort(int *array, size_t size)
 		len--;
 	}
 }
-
-/* by
-   sally
-*/
